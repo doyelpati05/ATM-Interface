@@ -48,6 +48,8 @@ ATM.java                → Class to handle user interaction and options
 
 ## 📷 Sample Output
 
+![Image](https://github.com/user-attachments/assets/32b3555a-e5e3-442c-b5d1-6c5b082b3733)
+
 
 ## 🚀 How to Run
 
